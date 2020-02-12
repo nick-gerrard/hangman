@@ -49,6 +49,8 @@ def game(word):
 	
 game("wotrd")
 
+print("I did this from CodeCademy!")
+
 
 #calling the functions to play the game.
   
